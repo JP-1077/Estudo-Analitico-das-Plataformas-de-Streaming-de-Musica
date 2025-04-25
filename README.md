@@ -90,7 +90,7 @@ Esta página tem como objetivo apresentar um resumo analítico e visual do desem
 
 Esta página tem como objetivo analisar as características sonoras das músicas dos artistas mais populares, identificando padrões em atributos como dancabilidade, energia e valência (positividade). As análises permitem entender o estilo musical predominante por artista e como essas características evoluíram ao longo do tempo.
 
-![alt text](caracteristicas.png)
+![alt text](Caracteristicas.png)
 
 * **Principais análise**
 
